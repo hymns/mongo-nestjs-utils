@@ -1,6 +1,6 @@
 {
   "name": "@hymns/mongo-nestjs-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Mongodb NestJS database utilities",
   "main": "src/index.ts",
   "scripts": {
