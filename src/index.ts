@@ -1,3 +1,5 @@
-export * from './database.module';
-export * from './abstract.repository';
-export * from './abstract.schema';
+import { DatabaseModule } from './database.module';
+import { AbstractDocument } from './abstract.schema';
+import { AbstractRepository } from "./abstract.repository";
+
+export { DatabaseModule, AbstractDocument, AbstractRepository };
