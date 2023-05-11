@@ -1,8 +1,7 @@
 # MongoDB NestJs Utils
 
-[![npm version](https://img.shields.io/npm/v/mongo-nestjs-utils)](https://www.npmjs.com/package/mongo-nestjs-utils)
-[![npm download by month](https://img.shields.io/npm/dm/mongo-nestjs-utils)](https://npmcharts.com/compare/mongo-nestjs-utils?minimal=true)
-[![npm peer dependency version - @nestjs/core](https://img.shields.io/npm/dependency-version/mongo-nestjs-utils/peer/@nestjs/core)](https://github.com/nestjs/nest)
+[![npm version](https://img.shields.io/npm/v/@hymns/mongo-nestjs-utils)](https://www.npmjs.com/package/@hymns/mongo-nestjs-utils)
+[![npm download by month](https://img.shields.io/npm/dm/@hymns/mongo-nestjs-utils)](https://npmcharts.com/compare/@hymns/mongo-nestjs-utils?minimal=true)
 
 ## Description
 
