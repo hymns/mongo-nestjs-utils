@@ -1,0 +1,22 @@
+{
+  "name": "@hymns/mongo-nestjs-utils",
+  "version": "1.0.0",
+  "description": "Mongodb NestJS database utilities",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hymns/mongo-nest-utils.git"
+  },
+  "keywords": [
+    "mongodb",
+    "nestjs"
+  ],
+  "author": "Muhammad Hamizi Jaminan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hymns/mongo-nest-utils/issues"
+  },
+  "homepage": "https://github.com/hymns/mongo-nest-utils#readme"
+}
